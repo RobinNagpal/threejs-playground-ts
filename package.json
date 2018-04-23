@@ -1,5 +1,5 @@
 {
-  "name": "three-typescript-starter",
+  "name": "three-playground-ts",
   "version": "1.0.0",
   "description": "three.js + typescript",
   "main": "index.js",
@@ -8,16 +8,11 @@
     "start": "webpack-dev-server --inline --open"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pinqy520/three-typescript-starter.git"
+    "type": "git"
   },
   "keywords": [],
-  "author": "Huang Qi",
+  "author": "Robin Nagpal",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pinqy520/three-typescript-starter/issues"
-  },
-  "homepage": "https://github.com/pinqy520/three-typescript-starter#readme",
   "devDependencies": {
     "awesome-typescript-loader": "latest",
     "browser-sync": "latest",
