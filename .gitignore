@@ -1,0 +1,15 @@
+.lein-repl-history
+.#*
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
+.DS_Store
+/.nrepl-port
+/resources/public/css/site
+/.idea
+/aurora.iml
+/.vscode
+/analytics-log.txt
+puppeteer-tests/node_modules/
