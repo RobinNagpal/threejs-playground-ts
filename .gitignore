@@ -12,4 +12,6 @@ out
 /aurora.iml
 /.vscode
 /analytics-log.txt
-puppeteer-tests/node_modules/
+puppeteer-tests/node_modules/.awcache/
+node_modules/
+.awcache/
